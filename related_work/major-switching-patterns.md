@@ -62,3 +62,45 @@
 **Evaluation**: Tracked major changes across entire college career, analyzing patterns of field switching and completion rates by major transition patterns.
 
 **Impact**: Demonstrates complex, non-linear major choice processes that challenge Linear Decision Process Assumption. Shows major "exploration" continues throughout college, not just in early years.
+
+---
+
+### Virtues of Academic Exploration: Impact of Major Changes on Degree Completion
+**Authors**: Moraima Castro-Faix, Kristen Hengtgen, Phillip A. Morris, Kelly E. Rapp, Christa E. Winkler, Tonghui Xu (2024)  
+**Source**: Journal of College Orientation, Transition, and Retention  
+**URL**: https://pubs.lib.umn.edu/index.php/jcotr/article/download/4904/3376/29187
+
+#### Analysis Framework
+
+**Problem**: Understanding the impact of multiple academic major changes on bachelor's degree attainment within six years.
+
+**Prior Assumptions**: Multiple major changes represent excessive indecision, delay completion, and indicate poor planning (Stability as Success + Linear Decision Process Assumptions).
+
+**Insight**: Students who changed their major one or more times showed significantly increased odds of degree attainment compared to students who never changed majors.
+
+**Technical Approach**: Used 2012/17 Beginning Postsecondary Students Longitudinal Study data (n=13,800) with logistic regression and propensity score analysis.
+
+**Evaluation**: Found significant positive relationship between major changes and six-year graduation rates, with strongest effects for early changers.
+
+**Impact**: Strongly supports Non-Linear Exploration Value hypothesis - major switching represents sophisticated exploration strategy that improves rather than harms completion outcomes.
+
+---
+
+### How Perceived Social Support Influences Chinese Students' Intention to Change Majors
+**Authors**: Zhanning Wang (2025)  
+**Source**: Frontiers in Psychology  
+**URL**: https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1502128/full
+
+#### Analysis Framework
+
+**Problem**: Understanding how social support influences students' intentions to change majors and the underlying psychological mechanisms.
+
+**Prior Assumptions**: Social support universally reduces major switching intentions by providing stability and encouragement.
+
+**Insight**: Social support has complex, bidirectional effects - it reduces switching intentions when mediated through mental flow and self-efficacy, but directly increases switching intentions.
+
+**Technical Approach**: Chain mediation model with moderation using Social Cognitive Career Theory framework, surveying students at four Chinese universities in 2024.
+
+**Evaluation**: Found that social support → mental flow → self-efficacy pathway reduces switching intentions, while direct social support increases switching intentions.
+
+**Impact**: Reveals sophisticated social dynamics in major choice, supporting Collective Agency Dynamics hypothesis about social negotiation in major decisions.
